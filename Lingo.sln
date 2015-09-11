@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lingo", "Lingo\Lingo.csproj", "{E6FBB009-99A4-4B42-83B4-B2AB66087E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mahout", "Mahout\Mahout.csproj", "{2211106A-CE00-4871-BF91-ACDB162496C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelColt", "ParallelColt\ParallelColt.csproj", "{8B2C09B4-3486-4BFE-BB8F-6BC6DF0F1A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6FBB009-99A4-4B42-83B4-B2AB66087E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FBB009-99A4-4B42-83B4-B2AB66087E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FBB009-99A4-4B42-83B4-B2AB66087E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FBB009-99A4-4B42-83B4-B2AB66087E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2211106A-CE00-4871-BF91-ACDB162496C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2211106A-CE00-4871-BF91-ACDB162496C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2211106A-CE00-4871-BF91-ACDB162496C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2211106A-CE00-4871-BF91-ACDB162496C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2C09B4-3486-4BFE-BB8F-6BC6DF0F1A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2C09B4-3486-4BFE-BB8F-6BC6DF0F1A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2C09B4-3486-4BFE-BB8F-6BC6DF0F1A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2C09B4-3486-4BFE-BB8F-6BC6DF0F1A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
